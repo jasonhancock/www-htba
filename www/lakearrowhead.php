@@ -19,7 +19,7 @@ include_once('header.php');
     <td>
         <ul>
             <li>Belgian Golden Strong Ale</li>
-            <li>Kettle soured, dry-hopped saision</li>
+            <li>Kettle soured, dry-hopped saison</li>
         </ul>
     </td>
 </tr>
